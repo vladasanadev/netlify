@@ -12,7 +12,7 @@ export default function App() {
           target="_blank"
         >
           {" "}
-          open-sourced on GitHub
+          open-sourced on GitHub.
         </a>
       </footer>
     </div>
