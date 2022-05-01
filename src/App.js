@@ -18,7 +18,10 @@ export default function App() {
             {" "}
             open-sourced on GitHub {""}
           </a>
-          and <a href="">hosted on Netlify.</a>
+          and{" "}
+          <a href="https://github.com/Dapper50/react-weather-app.git">
+            hosted on Netlify.
+          </a>
         </footer>
       </div>
     </div>
