@@ -13,7 +13,7 @@ export default function App() {
           <a
             href="https://github.com/Dapper50/react-weather-app.git"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             open-sourced on GitHub {""}
