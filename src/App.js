@@ -19,7 +19,11 @@ export default function App() {
             open-sourced on GitHub {""}
           </a>
           and{" "}
-          <a href="https://github.com/Dapper50/react-weather-app.git">
+          <a
+            href="https://github.com/Dapper50/react-weather-app.git"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify.
           </a>
         </footer>
