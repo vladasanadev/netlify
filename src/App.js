@@ -20,7 +20,7 @@ export default function App() {
           </a>
           and{" "}
           <a
-            href="https://github.com/Dapper50/react-weather-app.git"
+            href="https://capable-starlight-a711c5.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
