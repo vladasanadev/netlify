@@ -16,8 +16,9 @@ export default function App() {
             rel="noreferrer"
           >
             {" "}
-            open-sourced on GitHub.
+            open-sourced on GitHub {""}
           </a>
+          and <a href="">hosted on Netlify.</a>
         </footer>
       </div>
     </div>
